@@ -1,0 +1,4 @@
+com\example\translator\LLMtranslator.class
+com\example\translator\RestApplication.class
+com\example\translator\TranslatorResource.class
+com\example\translator\Main.class
